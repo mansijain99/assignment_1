@@ -6,10 +6,10 @@
  */
 package com.phoenix.designpatterns.factory.cars;
 
-public class Sedancar extends Car {
+public class SportCar extends Car {
 	
-	public void Seadancar(){
-		System.out.println("SedanCar created");
+	public void SportCar(){
+		System.out.println("SportCar created");
 	}
 
 }
